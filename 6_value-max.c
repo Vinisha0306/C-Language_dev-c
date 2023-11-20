@@ -21,7 +21,7 @@ main()
         if(j>k)
         {
             if(j>l)      
-            {
+            {g
                  if(j>m)
                  {
                       if(j>n)
