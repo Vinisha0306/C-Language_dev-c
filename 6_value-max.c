@@ -1,10 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
 
-main()
+int main()
 {
     int j,k,l,m,n,o;
-    clrscr();
+
         printf("Enter J:");
         scanf("%d",&j);
         printf("Enter K:");
@@ -21,7 +20,7 @@ main()
         if(j>k)
         {
             if(j>l)      
-            {g
+            {
                  if(j>m)
                  {
                       if(j>n)
@@ -235,7 +234,6 @@ main()
                       } 
                  }
             }  
-        }
-        
-    getch();
+        }  
+        return 0;     
 }
